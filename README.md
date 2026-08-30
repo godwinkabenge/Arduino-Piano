@@ -41,5 +41,5 @@ This project uses an Arduino, push buttons, and resistors to create a small musi
 
 A video showing the Arduino keyboard playing different notes can be seen here.
 
-[Watch the project demonstration](./Arduino_Keyboard_Instrument_demo.mp4)
+[Watch the project demonstration](./Arduino_piano.mp4)
 
